@@ -7,3 +7,6 @@ c:\users\m306\documents\visual studio 2015\Projects\WindowsFormsApplication1\Win
 c:\users\m306\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
 c:\users\m306\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
 c:\users\m306\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\m306\Documents\Visual Studio 2015\Projects\分數和等第計算器(Form)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\m306\Documents\Visual Studio 2015\Projects\分數和等第計算器(Form)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\m306\Documents\Visual Studio 2015\Projects\分數和等第計算器(Form)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
